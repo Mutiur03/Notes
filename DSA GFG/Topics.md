@@ -1,4 +1,4 @@
 
 1. [[Array]]
-2. [[DSA GFG/String]]
+2. [[String]]
 3. 
