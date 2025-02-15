@@ -3,9 +3,7 @@ First create venv.
 Install Lib
 ```
 pip install flask jinja2
-```
-```
-pip install SQLAlchemy
+pip install flask-SQLAlchemy
 ```
 
 Create app.py file
