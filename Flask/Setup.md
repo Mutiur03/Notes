@@ -20,7 +20,7 @@ def main():
 app.run(debug=True, port=8000)
 ```
 
-TO set Tailwind css use default script [[Django/TCSS Setup/Setup|Setup]]
+TO set Tailwind css use default script [[Setting Up Tailwind CSS|Setting Up Tailwind CSS]]
 
 ### Hot Reloading
 

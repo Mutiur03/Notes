@@ -1,0 +1,4 @@
+pyinstaller --onefile --noconfirm --add-binary "ffmpeg\ffmpeg.exe;ffmpeg" --paths .venv\Lib\site-packages downloader.py
+
+
+https://chatgpt.com/share/679121e3-dd34-8008-8fe1-7aee43653975

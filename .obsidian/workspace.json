@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "c3c6e5ee47b95d6e",
+        "id": "b59b7aa1759ea036",
         "type": "tabs",
         "children": [
           {
-            "id": "b22f21a199ec41d3",
+            "id": "dace3e8b4359b78c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA GFG/CP/DFS Cycle.md",
+                "file": "DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DFS Cycle"
+              "title": "DOM"
             }
           },
           {
-            "id": "c8630360ac099f98",
+            "id": "e713c7f119c9ac71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String operations in py.md",
-                "mode": "source",
+                "file": "JavaScript Array Methods - forEach map filter and reduce.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "String operations in py"
+              "title": "JavaScript Array Methods - forEach map filter and reduce"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,40 +178,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8630360ac099f98",
+  "active": "dace3e8b4359b78c",
   "lastOpenFiles": [
-    "DSA GFG/CP/DFS Cycle.md",
+    "JavaScript Notes.md",
+    "CSS/Grid.md",
+    "DOM.md",
+    "Arrays in JavaScript.md",
+    "Collections in py.md",
+    "JavaScript Array Methods - forEach map filter and reduce.md",
+    "Enum in Python and Django.md",
+    "Functions in JavaScript.md",
+    "JavaScript Strings.md",
+    "OOP in JavaScript.md",
     "String operations in py.md",
+    "Django/Django Model Choices.md",
+    "Django/Setting Up a Django Project.md",
+    "Django/Setting Up Tailwind CSS.md",
+    "Django/Setting Up Tailwind CSS with Auto reload properties in Django.md",
+    "Django/Templates.md",
+    "Flask/Setup.md",
+    "DSA GFG/CP/DFS Cycle.md",
     "DSA GFG/CP/DFS Basic.md",
     "DSA GFG/CP/BFS Basic.md",
-    "Flask/Setup.md",
-    "Django/TCSS Setup/Setup.md",
     "Flask",
-    "CSS/Grid.md",
     "CSS/Pasted image 20250208004134.png",
     "CSS",
     "DSA GFG/First non-repeating character.md",
     "Django/TCSS Setup",
     "DSA GFG/String.md",
     "DSA GFG/Anagrams.md",
-    "Django/Auto reload properties.md",
-    "Django/Templates.md",
-    "Django/Initialization.md",
     "DSA GFG/CP/Untitled/Nearest multiple.md",
     "Django",
     "DSA GFG/CP/Tree.md",
     "DSA GFG/CP/Untitled",
     "DSA GFG/CP/Find all unique Substring.md",
-    "DSA GFG/CP/Generate all possible permutations.md",
-    "DSA GFG/CP/Subarray Sum.md",
-    "DSA GFG/CP/Subtree Sum.md",
-    "Java/Pasted image 20241222145130.png",
-    "DSA GFG/Topics.md",
-    "DSA GFG/Array.md",
-    "Java/Java.md",
-    "Java/String.md",
-    "Java/File Handling.md",
-    "Java/Container.md",
-    "Java/JOptionPane.md"
+    "Java/Pasted image 20241222145130.png"
   ]
 }
