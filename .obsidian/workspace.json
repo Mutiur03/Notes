@@ -4,38 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "b59b7aa1759ea036",
+        "id": "a973863862e70bde",
         "type": "tabs",
         "children": [
           {
-            "id": "dace3e8b4359b78c",
+            "id": "e9900cd7b1a35c73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DOM"
-            }
-          },
-          {
-            "id": "e713c7f119c9ac71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript Array Methods - forEach map filter and reduce.md",
+                "file": "React/Form.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JavaScript Array Methods - forEach map filter and reduce"
+              "title": "Form"
+            }
+          },
+          {
+            "id": "7e1f8c4dd7393ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Hooks/useContext.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "useContext"
+            }
+          },
+          {
+            "id": "f8ad77016797fb6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Arrays in JavaScript.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arrays in JavaScript"
+            }
+          },
+          {
+            "id": "8f2ab5ddc5a94617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/JavaScript Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JavaScript Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,40 +207,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dace3e8b4359b78c",
+  "active": "f8ad77016797fb6a",
   "lastOpenFiles": [
-    "JavaScript Notes.md",
-    "CSS/Grid.md",
-    "DOM.md",
-    "Arrays in JavaScript.md",
-    "Collections in py.md",
-    "JavaScript Array Methods - forEach map filter and reduce.md",
-    "Enum in Python and Django.md",
-    "Functions in JavaScript.md",
-    "JavaScript Strings.md",
-    "OOP in JavaScript.md",
-    "String operations in py.md",
-    "Django/Django Model Choices.md",
-    "Django/Setting Up a Django Project.md",
-    "Django/Setting Up Tailwind CSS.md",
-    "Django/Setting Up Tailwind CSS with Auto reload properties in Django.md",
-    "Django/Templates.md",
+    "JS/JavaScript Strings.md",
+    "Express/React with express/Initialization with vite.md",
+    "React/Redux.md",
+    "React/Form.md",
+    "JS/JavaScript Notes.md",
+    "JS/DOM.md",
+    "React/Hooks/useContext.md",
+    "PDFkit.md",
+    "Express/Initailization.md",
+    "React/Hooks/useEffect.md",
+    "Next",
+    "Express/MongoDB.md",
+    "Express/React with express",
+    "Express",
+    "React/Hooks/useReducer.md",
+    "React/Hooks/useMemo.md",
+    "React/Hooks/useCallback.md",
+    "React/Hooks/useRef.md",
+    "React/Hooks/useState.md",
+    "React/Hooks",
+    "Py/Enum in Python and Django.md",
+    "JS/JavaScript Array Methods - forEach map filter and reduce.md",
     "Flask/Setup.md",
-    "DSA GFG/CP/DFS Cycle.md",
-    "DSA GFG/CP/DFS Basic.md",
-    "DSA GFG/CP/BFS Basic.md",
+    "JS/Functions in JavaScript.md",
+    "JS/Arrays in JavaScript.md",
+    "Py",
+    "JS",
+    "React",
+    "JS/Promises, Async, and Await in JavaScript.md",
+    "CSS/Setting Up Tailwind CSS.md",
+    "CSS/Grid.md",
+    "Py/Collections in py.md",
+    "JS/OOP in JavaScript.md",
     "Flask",
     "CSS/Pasted image 20250208004134.png",
     "CSS",
-    "DSA GFG/First non-repeating character.md",
     "Django/TCSS Setup",
-    "DSA GFG/String.md",
-    "DSA GFG/Anagrams.md",
-    "DSA GFG/CP/Untitled/Nearest multiple.md",
-    "Django",
-    "DSA GFG/CP/Tree.md",
-    "DSA GFG/CP/Untitled",
-    "DSA GFG/CP/Find all unique Substring.md",
     "Java/Pasted image 20241222145130.png"
   ]
 }
